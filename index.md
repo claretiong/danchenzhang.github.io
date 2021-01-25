@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-leap-day
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Danchen Zhang</h1>
+      <p><b>Undergraduate</b></p>
+      <p><b>China University of Petroleum, Beijing</b></p>
+      <p><b>School of Economics and Management</b></p>
+      <p><b>Email: claretiong@163.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/claretiong/danchenzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### ACADEMIC PERFORMANCE
+  GPA：90.06/100   Probability and Mathematical Statistics (94)  Management Information System (93) 
+  Principles of Database System (93)  Operation Management (97)  Microeconomics (95)  Marketing(99)
+  
+### RESEARCH EXPERIENCE  
+  Project: Sentiment Analysis of China’s Education Policy Online Opinion                   2019-2020
+  Project Leader, 2021 9th International Conference on Information and Education Technology (submitted)
+· Crawled the data on Sina Weibo, built a sentiment analysis model, and performed spatio-temporal visualization analysis
+· Analyzed online public opinion after the promulgation of the China’s high school entrance examination postponement policy under COVID-19, and proposed policy recommendations (Python)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Project: Research on the Influence Factors of Energy Consumption of Chinese Residents Based on Decision Tree and Panel-corrected Standard Error                                       2019-2020
+Co- first Author, Resources & Industries (reviewers assigned)
+· Analyzed of factors influencing energy consumption of Chinese residents using decision tree model based on CGSS 2015 questionnaire
+· Compared the similarities and differences between the two methods through the research results and provided suggestions for the government and residents to save energy consumption
 
-### Markdown
+  Book: Be in the Present: Coping and Surviving Low Oil Prices                           2020-Present
+  Co- Author
+· Working on two chapters about the impact of COVID-19 on global oil markets and the response of national oil companies to low oil prices
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  Project: An Analysis of Public Opinions Regarding imported frozen food safety in COVID-19  2020-Present
+  Project Leader
+· Collected online textual data regarding “imported frozen food safety in COVID-19” from Sina Weibo, used natural language processing to analyze the users’ emotions and opinions
+· Using latent Dirichlet allocation(LDA) and k-means to extract and cluster topics from the data (Python)
 
-```markdown
-Syntax highlighted code block
+### AWARDS & ACTIVITIES
+  National Scholarship                                                                                      Nov. 2019
+  National Scholarship                                                                                      Nov. 2020
+  Mathematical Contest In Modeling, Honorable Mention (Leader)                                              Apr. 2020
+  Beijing Contest District in China Undergraduate Mathematical Contest in Modeling, Second Prize（Leader）  Sept. 2020 
+  2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize                                                Nov. 2020
+  President, Energy Economics Union, CUPB 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/claretiong/danchenzhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### LANGUAGES & SKILLS   
+   Computer Skills: Python, Java, C, SQL, SPSS, EViews, Dreamweaver, Stata;
+   Languages: Mandarin (Native), English（Fluent）
