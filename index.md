@@ -6,7 +6,7 @@ theme: jekyll-theme-leap-day
       <p><b>Undergraduate</b></p>
       <p><b>China University of Petroleum, Beijing</b></p>
       <p><b>School of Economics and Management</b></p>
-      <p><b>Email: claretiong@163.com</b></p>
+      <p><b>Email: claretiong@foxmail.com</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
