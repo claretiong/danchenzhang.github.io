@@ -30,19 +30,19 @@ theme: jekyll-theme-leap-day
 - [4]	Hongde Liu, Xiaoli Feng, **Danchen Zhang**. Research on Measuring Customer Satisfaction of Shared Cars Based on Structural Equations--a Case Study in Beijing [J]. Modern Marketing, 2020(07):176-179. 
 
 ### RESEARCH EXPERIENCE  
-  **Project: Sentiment Analysis of China’s Education Policy Online Opinion**     Apr.2019 - May.2020
+**Project: Sentiment Analysis of China’s Education Policy Online Opinion**     Apr.2019 - May.2020
   **Project Leader**|**Advisor**: Ming Li (Professor, School of Economics and Management, CUPB)
 · Crawled online textual data on Sina Weibo, built a sentiment analysis model, and performed spatio-temporal visualization analysis
 · Analyzed online public opinion after the promulgation of the China’s high school entrance examination postponement policy under COVID-19, and proposed policy recommendations (Python)
 - Conclusion: the empirical analysis proves that the online public opinion analysis model of education policy can reflect the evolution of law
 
-  **Project: Research on the Influence Factors of Energy Consumption of Chinese Residents Based on Decision Tree and Panel-corrected Standard Error**                                        Oct.2019 - Dec.2020
+**Project: Research on the Influence Factors of Energy Consumption of Chinese Residents Based on Decision Tree and Panel-corrected Standard Error**                                        Oct.2019 - Dec.2020
   **Advisor**: Xinzhu Zheng (Lecturer, School of Economics and Management, CUPB)
 · Analyzed factors influencing energy consumption of Chinese residents using decision tree model based on CGSS 2015 questionnaire
 · Compared decision tree and panel-corrected standard error and provided suggestions for the government and residents on energy consumption saving
 - Found important factors affecting household electricity consumption in the decision tree approach
 
- **Project: Study on Improving the Operation Mechanism of China’s Oil Reserve**   Oct.2019 - Dec.2020
+**Project: Study on Improving the Operation Mechanism of China’s Oil Reserve**   Oct.2019 - Dec.2020
    **Advisor**: Xinzhu Zheng (Lecturer, School of Economics and Management, CUPB)
 - Analyzed the strategic oil reserve strategies of the United States and France from the perspectives of storage, rotation, and utilization
 · Compared China’s strategic oil reserve strategy with that of the United States and France, and proposed policy recommendations
