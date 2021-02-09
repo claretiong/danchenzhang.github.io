@@ -40,7 +40,7 @@ theme: jekyll-theme-leap-day
   **Advisor**: Xinzhu Zheng (Lecturer, School of Economics and Management, CUPB)
 · Analyzed factors influencing energy consumption of Chinese residents using decision tree model based on CGSS 2015 questionnaire
 · Compared decision tree and panel-corrected standard error and provided suggestions for the government and residents on energy consumption saving
-- 	Found important factors affecting household electricity consumption in the decision tree approach
+- Found important factors affecting household electricity consumption in the decision tree approach
 
  **Project: Study on Improving the Operation Mechanism of China’s Oil Reserve**   Oct.2019 - Dec.2020
    **Advisor**: Xinzhu Zheng (Lecturer, School of Economics and Management, CUPB)
@@ -77,7 +77,6 @@ theme: jekyll-theme-leap-day
 - Responsible for the operation of the public website and project promotion 
 - Contacted with young volunteers and carry out teaching activities on a regular basis
 - Finally volunteer 130 hours
-
 
 ### LANGUAGES & SKILLS   
    Computer Skills: Python, Java, C, SQL, SPSS, EViews, Dreamweaver, Stata;
