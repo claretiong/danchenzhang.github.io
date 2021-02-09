@@ -29,7 +29,6 @@ theme: jekyll-theme-leap-day
   Shan Huang, **Danchen Zhang**, Resources & Industries (Under Review)
 - [4]	Hongde Liu, Xiaoli Feng, **Danchen Zhang**. Research on Measuring Customer Satisfaction of Shared Cars Based on Structural Equations--a Case Study in Beijing [J]. Modern Marketing, 2020(07):176-179. 
 
-
 ### RESEARCH EXPERIENCE  
   **Project: Sentiment Analysis of China’s Education Policy Online Opinion**     Apr.2019 - May.2020
   **Project Leader**|**Advisor**: Ming Li (Professor, School of Economics and Management, CUPB)
